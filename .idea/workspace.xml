@@ -137,6 +137,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -156,11 +157,17 @@
       <workItem from="1598885093209" duration="2453000" />
       <workItem from="1598899212104" duration="1486000" />
       <workItem from="1598903871372" duration="3000" />
-      <workItem from="1598944344475" duration="1001000" />
+      <workItem from="1598944344475" duration="7284000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="895" y="150" key="SettingsEditor" timestamp="1598946105242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="895" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598946105242" />
   </component>
 </project>
